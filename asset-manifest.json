@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rbbc-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/rbbc-gh-pages/static/js/main.8604d28b.js",
+    "static/js/787.887460f8.chunk.js": "/rbbc-gh-pages/static/js/787.887460f8.chunk.js",
+    "static/media/logo.svg": "/rbbc-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rbbc-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/rbbc-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.8604d28b.js.map": "/rbbc-gh-pages/static/js/main.8604d28b.js.map",
+    "787.887460f8.chunk.js.map": "/rbbc-gh-pages/static/js/787.887460f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8604d28b.js"
+  ]
+}
