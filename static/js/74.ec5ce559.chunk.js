@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrbbc_web_app=self.webpackChunkrbbc_web_app||[]).push([[74],{74:function(e,p,b){e.exports=b.p+"static/media/little_spillage.09004862e928eba8f124.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrbbc_web_app=self.webpackChunkrbbc_web_app||[]).push([[443],{443:function(e,b,p){e.exports=p.p+"static/media/skibidi_ruddles.b01e6afccb2ad0aeffe0.jpg"}}]);
